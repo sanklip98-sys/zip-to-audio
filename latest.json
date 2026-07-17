@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "installerUrl": "https://github.com/sanklip98-sys/zip-to-audio/releases/latest/download/ZipToAudio-Setup.exe",
-  "sha256": "74F6D950655BF91325FBB7B3F19C4D8783A7EFCA9B518624508BB384CF175B97",
-  "notes": "Pierwsza publiczna wersja programu ZIP to Audio z dostępnym interfejsem, aktualizatorem i numeracją 01, 02, 03.",
-  "publishedAt": "2026-07-17T01:52:42Z"
+  "sha256": "A3BFEC2AA82F0D5C27F76149AA22D9799A02FAD49BA7C9FCBD81235D5E70B2BF",
+  "notes": "Dodano trwały zapis logów do pliku, logowanie błędów aktualizacji i konwersji oraz zachowano dostępną obsługę NVDA i numerację 01, 02, 03.",
+  "publishedAt": "2026-07-17T02:28:04Z"
 }
