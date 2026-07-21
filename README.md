@@ -22,6 +22,7 @@ Najnowszy instalator:
 6. Po wypakowaniu usuwa z tej operacji pliki inne niż MP3.
 7. Może ponumerować istniejący ZIP bez wypakowywania go do folderu.
 8. Pokazuje status, pasek postępu i prędkość pracy.
+9. Pozwala wybrać domyślne albo własne miejsce zapisu plików wynikowych.
 
 Oryginalny plik RAR nie jest modyfikowany.
 
@@ -37,6 +38,14 @@ Oryginalny plik RAR nie jest modyfikowany.
    - `Nadaj kolejne numery plikom`
 6. Naciśnij `Konwertuj`.
 
+## Miejsce zapisu
+
+Menu `Ustawienia` otworzysz klawiaturą przez `Alt+U`.
+
+Opcja `Miejsce zapisu` pozwala zostawić domyślne miejsca zapisu albo wskazać własny folder. Folder można wybrać w oknie eksploratora albo wpisać ręcznie i zatwierdzić `OK`.
+
+Skrót `Alt+M` otwiera ustawienie `Miejsce zapisu` bezpośrednio.
+
 ## Opcje dodatkowe
 
 Menu `Opcje dodatkowe` otworzysz klawiaturą przez `Alt+O`.
@@ -51,6 +60,8 @@ Dostępne opcje:
 
 - `Alt+O` otwiera menu `Opcje dodatkowe`.
 - `Alt+N` od razu uruchamia opcję `Dodaj numerację do ZIP`.
+- `Alt+U` otwiera menu `Ustawienia`.
+- `Alt+M` otwiera ustawienie `Miejsce zapisu`.
 - `F1` pokazuje pomoc z opisem działania klawiszy.
 - `Enter` zatwierdza wybraną opcję w menu i dialogach.
 - `Escape` lub zamknięcie okna pyta, czy zamknąć program.
