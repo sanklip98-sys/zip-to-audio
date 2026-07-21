@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "installerUrl": "https://github.com/sanklip98-sys/zip-to-audio/releases/latest/download/ZipToAudio-Setup.exe",
-  "sha256": "B9D05CB76CCEBA102B5E6DFE37DB27C22CC6A194E13D4B2EFD78DE5F8A53271E",
-  "notes": "Dodano dialog aktualizacji z wyborem Aktualizuj teraz/Odłóż na później, opcje dodatkowe RAR na ZIP i ZIP na RAR pod Alt+O oraz dokumentację użytkownika.",
-  "publishedAt": "2026-07-19T21:40:54Z"
+  "sha256": "F2100246631B0EBD3630A843FA7F70534C8FEA6F392A414402FBA6038F8F219E",
+  "notes": "Dodano opcję Dodaj numerację do ZIP: program tworzy nowy ZIP z samymi plikami audio i numeracją 01, 02, 03 itd. Dodano też pomoc pod F1 z opisem klawiszy.",
+  "publishedAt": "2026-07-21T17:57:12Z"
 }

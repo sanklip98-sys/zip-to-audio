@@ -20,7 +20,8 @@ Najnowszy instalator:
 4. Zapisuje ZIP w kolejności numerowanych nazw.
 5. Może automatycznie wypakować utworzony ZIP do wybranego folderu.
 6. Po wypakowaniu usuwa z tej operacji pliki inne niż MP3.
-7. Pokazuje status, pasek postępu i prędkość pracy.
+7. Może ponumerować istniejący ZIP bez wypakowywania go do folderu.
+8. Pokazuje status, pasek postępu i prędkość pracy.
 
 Oryginalny plik RAR nie jest modyfikowany.
 
@@ -44,10 +45,13 @@ Dostępne opcje:
 
 - `Konwertuj RAR na ZIP` - przepakowuje całe archiwum RAR do ZIP bez filtrowania MP3 i bez zmiany nazw.
 - `Konwertuj ZIP na RAR` - przepakowuje ZIP do RAR. Ta opcja wymaga programu `Rar.exe` albo `WinRAR.exe`.
+- `Dodaj numerację do ZIP` - tworzy w folderze konwersji programu nowy ZIP z samymi plikami audio i numeracją `01`, `02`, `03` itd.; od `10` program nie dodaje zera z przodu.
 
 ## Sterowanie klawiaturą
 
 - `Alt+O` otwiera menu `Opcje dodatkowe`.
+- `Alt+N` od razu uruchamia opcję `Dodaj numerację do ZIP`.
+- `F1` pokazuje pomoc z opisem działania klawiszy.
 - `Enter` zatwierdza wybraną opcję w menu i dialogach.
 - `Escape` lub zamknięcie okna pyta, czy zamknąć program.
 - W pytaniu o zamknięcie wybór `Tak`/`Nie` zmienia się strzałkami lewo/prawo.
