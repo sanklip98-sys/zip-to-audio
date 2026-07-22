@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "installerUrl": "https://github.com/sanklip98-sys/zip-to-audio/releases/latest/download/ZipToAudio-Setup.exe",
-  "sha256": "A8E85D3D69E402E5A29472C6C1FC6B59FD519EC51AADACC22B3E2C57E4231B2C",
-  "notes": "Poprawiono opcję Dodaj numerację do ZIP. Jedno okno zawiera teraz wybór ZIP-a wejściowego oraz domyślną albo własną ścieżkę zapisu wynikowego ZIP-a.",
-  "publishedAt": "2026-07-22T17:24:00Z"
+  "sha256": "749410733D50F4AF9C424061738CACE9C10B581A7CC2A044F7CC706C50FBAF17",
+  "notes": "Poprawiono wybór miejsca zapisu w opcji Dodaj numerację do ZIP. W oknie numerowania można teraz od razu wskazać własny folder zapisu przez Alt+F albo przycisk Wybierz folder.",
+  "publishedAt": "2026-07-22T17:44:15Z"
 }
