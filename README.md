@@ -54,7 +54,7 @@ Dostępne opcje:
 
 - `Konwertuj RAR na ZIP` - przepakowuje całe archiwum RAR do ZIP bez filtrowania MP3 i bez zmiany nazw.
 - `Konwertuj ZIP na RAR` - przepakowuje ZIP do RAR. Ta opcja wymaga programu `Rar.exe` albo `WinRAR.exe`.
-- `Dodaj numerację do ZIP` - tworzy w folderze konwersji programu nowy ZIP z samymi plikami audio i numeracją `01`, `02`, `03` itd.; od `10` program nie dodaje zera z przodu.
+- `Dodaj numerację do ZIP` - tworzy nowy ZIP z samymi plikami audio i numeracją `01`, `02`, `03` itd.; od `10` program nie dodaje zera z przodu. Po wybraniu ZIP-a można zostawić domyślną ścieżkę zapisu albo wskazać własny plik wynikowy.
 
 ## Sterowanie klawiaturą
 

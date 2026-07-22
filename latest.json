@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "installerUrl": "https://github.com/sanklip98-sys/zip-to-audio/releases/latest/download/ZipToAudio-Setup.exe",
-  "sha256": "79E4C6E54A0F5BC294B3C0386E5335CA2E7D55FCAEBA4D1512845F152A51F77C",
-  "notes": "Dodano ustawienie Miejsce zapisu pod Alt+U / Alt+M. Użytkownik może zostawić domyślne miejsce zapisu albo wskazać własny folder przez eksplorator lub wpisując ścieżkę ręcznie.",
-  "publishedAt": "2026-07-21T19:18:41Z"
+  "sha256": "466B900EDD54CAF1D06CFF1B8F112F41BA24E5F065215E56C7B1E3F2052ADAFA",
+  "notes": "Dodano wybór miejsca zapisu przy opcji Dodaj numerację do ZIP. Po wybraniu ZIP-a można zostawić domyślną ścieżkę albo wskazać własny plik wynikowy.",
+  "publishedAt": "2026-07-22T16:57:16Z"
 }
