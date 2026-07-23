@@ -12,6 +12,10 @@ Najnowszy instalator:
 
 <https://github.com/sanklip98-sys/zip-to-audio/releases/latest/download/ZipToAudio-Setup.exe>
 
+Paczka przenośna bez instalatora:
+
+<https://github.com/sanklip98-sys/zip-to-audio/releases/latest/download/ZipToAudio.zip>
+
 ## Najważniejsze funkcje
 
 1. Czyta wskazane archiwum RAR bez instalowania 7-Zip.
@@ -97,5 +101,5 @@ Log pomaga sprawdzić, co program robił i jaki błąd wystąpił.
 
 ## Licencje
 
-Do obsługi archiwów program używa biblioteki SharpCompress zaszytej w pliku EXE.
+Do obsługi archiwów program używa biblioteki SharpCompress instalowanej z programem.
 Informacje o licencjach bibliotek są dołączone do paczki programu.

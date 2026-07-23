@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "installerUrl": "https://github.com/sanklip98-sys/zip-to-audio/releases/latest/download/ZipToAudio-Setup.exe",
-  "sha256": "749410733D50F4AF9C424061738CACE9C10B581A7CC2A044F7CC706C50FBAF17",
-  "notes": "Poprawiono wybór miejsca zapisu w opcji Dodaj numerację do ZIP. W oknie numerowania można teraz od razu wskazać własny folder zapisu przez Alt+F albo przycisk Wybierz folder.",
-  "publishedAt": "2026-07-22T17:44:15Z"
+  "sha256": "3620F511D14F60F619C43D34150CF0EF0DBEFD9B4485456A6A1385A2AD59939C",
+  "notes": "Poprawiono zgodność z Microsoft Defender. Nowy instalator nie używa obfuskacji ani ładowania bibliotek z pamięci, które powodowały fałszywe alarmy. Funkcje programu pozostają bez zmian.",
+  "publishedAt": "2026-07-23T13:34:32Z"
 }
